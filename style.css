@@ -1,0 +1,84 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(45deg, #240165, #05001c);
+}
+
+.balad {
+  height: ;
+  color: aliceblue;
+  font-size: 50px;
+  margin-top: 100px;
+  margin: 25px;
+  border-bottom: solid 2px white;
+}
+.balad h1 {
+  font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.main {
+  display: flex;
+}
+
+.card {
+  background-color: #f0f0f0;
+  width: 200px;
+  height: 250px;
+  margin: 50px;
+  border-radius: 10px;
+}
+.card .h2 {
+  background: linear-gradient(45deg, #5709ee, #7a37bf);
+  color: wheat;
+  padding: 10px;
+  border-radius: 10px 10px 0 0;
+}
+.card .h2 h2 {
+  padding: 10px;
+  font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.time {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.centr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%;
+}
+.slect {
+  height: 35px;
+  width: 300px;
+  font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: 100px;
+  background: none;
+  color: white;
+  border: 2px solid;
+  border-radius: 5px;
+  background-color: #5709ee;
+  letter-spacing: 0.1cm;
+}
+.gorditas-regular {
+  font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.gorditas-bold {
+  font-family: "Gorditas", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+h3 {
+  font-family: "Gorditas", serif;
+  font-weight: 400;
+  font-style: normal;
+}

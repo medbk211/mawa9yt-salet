@@ -1,0 +1,97 @@
+{
+    "villes": [
+      {
+        "nom": "Ariana",
+        "gouvernorat": "Ariana"
+      },
+      {
+        "nom": "Tunis",
+        "gouvernorat": "Tunis"
+      },
+      {
+        "nom": "Ben Arous",
+        "gouvernorat": "Ben Arous"
+      },
+      {
+        "nom": "Manouba",
+        "gouvernorat": "Manouba"
+      },
+      {
+        "nom": "Béja",
+        "gouvernorat": "Béja"
+      },
+      {
+        "nom": "Bizerte",
+        "gouvernorat": "Bizerte"
+      },
+      {
+        "nom": "Nabeul",
+        "gouvernorat": "Nabeul"
+      },
+      {
+        "nom": "Sousse",
+        "gouvernorat": "Sousse"
+      },
+      {
+        "nom": "Monastir",
+        "gouvernorat": "Monastir"
+      },
+      {
+        "nom": "Mahdia",
+        "gouvernorat": "Mahdia"
+      },
+      {
+        "nom": "Sfax",
+        "gouvernorat": "Sfax"
+      },
+      {
+        "nom": "Gafsa",
+        "gouvernorat": "Gafsa"
+      },
+      {
+        "nom": "Kairouan",
+        "gouvernorat": "Kairouan"
+      },
+      {
+        "nom": "Sidi Bouzid",
+        "gouvernorat": "Sidi Bouzid"
+      },
+      {
+        "nom": "Gabès",
+        "gouvernorat": "Gabès"
+      },
+      {
+        "nom": "Medenine",
+        "gouvernorat": "Medenine"
+      },
+      {
+        "nom": "Tataouine",
+        "gouvernorat": "Tataouine"
+      },
+      {
+        "nom": "Tozeur",
+        "gouvernorat": "Tozeur"
+      },
+      {
+        "nom": "Kasserine",
+        "gouvernorat": "Kasserine"
+      },
+      {
+        "nom": "Jendouba",
+        "gouvernorat": "Jendouba"
+      },
+      {
+        "nom": "Le Kef",
+        "gouvernorat": "Le Kef"
+      },
+      {
+        "nom": "Siliana",
+        "gouvernorat": "Siliana"
+      },
+      {
+        "nom": "Zaghouan",
+        "gouvernorat": "Zaghouan"
+      }
+    ]
+  }
+  
